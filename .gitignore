@@ -908,3 +908,4 @@ data/pizza_steak_sushi_20_percent/train/sushi/96680.jpg
 data/pizza_steak_sushi_20_percent/train/sushi/998971.jpg
 data/pizza_steak_sushi_20_percent/train/sushi/999858.jpg
 models/08_pretrained_vit_feature_extractor_pizza_steak_sushi.pth
+models/09_pretrained_vit_feature_extractor_pizza_steak_sushi_20_percent.pth
