@@ -909,3 +909,12 @@ data/pizza_steak_sushi_20_percent/train/sushi/998971.jpg
 data/pizza_steak_sushi_20_percent/train/sushi/999858.jpg
 models/08_pretrained_vit_feature_extractor_pizza_steak_sushi.pth
 models/09_pretrained_vit_feature_extractor_pizza_steak_sushi_20_percent.pth
+cifar-10-python.tar.gz
+cifar-10-batches-py/test_batch
+cifar-10-batches-py/readme.html
+cifar-10-batches-py/data_batch_5
+cifar-10-batches-py/data_batch_4
+cifar-10-batches-py/data_batch_3
+cifar-10-batches-py/data_batch_2
+cifar-10-batches-py/data_batch_1
+cifar-10-batches-py/batches.meta
